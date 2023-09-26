@@ -1,5 +1,5 @@
 # Master Packager Dev
-Software that enable developers to create and automate professional MSI/MSIX packages ridiculously easy.
+Software that enable developers to create and automate professional MSI/MSIX packages ridiculously easy.  
 Focus on Your app not the installer.
 
 ## About this reposotory
